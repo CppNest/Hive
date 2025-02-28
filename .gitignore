@@ -1,0 +1,15 @@
+# Pliki tymczasowe
+*.tmp
+*.temp
+*.log
+
+# Pliki konfiguracyjne specyficzne dla użytkownika
+.vscode/
+*.code-workspace
+
+# Pliki binarne lub kompilowane
+*.exe
+*.dll
+*.so
+*.o
+*.out
