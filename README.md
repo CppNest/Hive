@@ -40,3 +40,7 @@ Celem projektu jest stworzenie interaktywnej aplikacji konsolowej, która pozwal
     ```sh
     ./main.exe
     ```
+
+# License
+
+This project is under the MIT License - see the [LICENSE](./LICENSE) file for details.
