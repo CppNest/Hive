@@ -1,7 +1,7 @@
-# Hive
+# Ul
 
 ## Opis projektu
-Projekt Hive to symulacja zarządzania pasieką. Umożliwia użytkownikowi odczytywanie i modyfikowanie informacji o ulu, takich jak liczba pszczół, nazwa pasieki, współrzędne geograficzne oraz nazwa właściciela pasieki.
+Projekt Ul to symulacja zarządzania pasieką. Umożliwia użytkownikowi odczytywanie i modyfikowanie informacji o ulu, takich jak liczba pszczół, nazwa pasieki, współrzędne geograficzne oraz nazwa właściciela pasieki.
 
 ## Cel projektu
 Celem projektu jest stworzenie interaktywnej aplikacji konsolowej, która pozwala użytkownikowi na zarządzanie pasieką poprzez prosty interfejs tekstowy.
